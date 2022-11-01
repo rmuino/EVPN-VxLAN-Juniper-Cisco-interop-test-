@@ -7,11 +7,13 @@ This interoperability test were done for a particular customer requirement whos 
 
 This example details how to deploy an edge-routed bridging (ERB) architecture using a 3-stage Clos fabric. It's deployment uses OSPFv2 for the underlay, iBGP for the overlay, and EVPN-VXLAN to provide connectivity across the Layer 3 fabric.
 
+*** HARDWARE | SOFTWARE SPECIFICATIONS ***
+
+<img width="745" alt="image" src="https://user-images.githubusercontent.com/117160980/199208033-67dc0fe5-8772-46a6-b1a7-ae927be2ec08.png">
+
 *** LAB TOPOLOGY ***
 
 <img width="1095" alt="image" src="https://user-images.githubusercontent.com/117160980/199207656-32365c28-81f4-4a78-9805-ce8e6502150d.png">
-
-
 
 *** USER GUIDES ***
 
