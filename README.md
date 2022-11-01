@@ -13,7 +13,7 @@ This example details how to deploy an edge-routed bridging (ERB) architecture us
 
 *** LAB TOPOLOGY ***
 
-<img width="1095" alt="image" src="https://user-images.githubusercontent.com/117160980/199207656-32365c28-81f4-4a78-9805-ce8e6502150d.png">
+<img width="1095" alt="image" src="https://user-images.githubusercontent.com/117160980/199244331-bdf4f112-0e57-4d50-a114-4ceec27ac8bf.png">
 
 *** USER GUIDES ***
 
