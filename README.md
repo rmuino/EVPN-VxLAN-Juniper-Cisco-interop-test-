@@ -1,4 +1,4 @@
-# EVPN-VxLAN-Juniper-Cisco-interop-test-
+# EVPN-VxLAN-Juniper-Cisco-interop-test
 Interoperability test for EVPN-VxLAN in Data-Center Clos topology
 
 This interoperability test were done for a particular customer requirement whos needed to add Juniper leaves to existing Cisco IP-fabric Clos topology at their data-center.
